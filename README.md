@@ -48,3 +48,15 @@ export default tseslint.config({
   },
 })
 ```
+
+
+
+
+-------
+
+npm install react-router-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install @fontsource/roboto - font
+npm install @mui/icons-material - icons
+
+
